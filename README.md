@@ -1,5 +1,5 @@
 ## Welcome iBrux
 
-- Our website is under construcion.
+Our website is under construction.
 
 
